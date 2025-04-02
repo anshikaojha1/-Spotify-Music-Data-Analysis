@@ -1,4 +1,4 @@
- ## 🎵 Spotify Music Data Analysis & Machine Learning Project** 🎧  
+ ## 🎵 Spotify Music Data Analysis & Machine Learning Project🎧  
 
 ### **📌 Project Overview**  
 This project explores **Spotify’s vast music dataset** to uncover trends, analyze song popularity, and build machine learning models for genre classification and song recommendation. Using **data analysis, visualization, and machine learning**, we extract insights from audio features and predict song characteristics.  
